@@ -27,6 +27,9 @@ Winlator@Frost is an Android application that lets you to run Windows (x86_64) a
 - If some older games don't open, try changing the environment variable from MESA_EXTENSION_MAX_YEAR=2003 to 2000 in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - If the game running in low fps, try removing some extra env from here
+<p align="center">
+	<img src="fix.png" width="1280" height="1024" alt="Winlator-Frost Fix" />  
+</p>
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
