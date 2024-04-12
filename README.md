@@ -28,7 +28,7 @@ Winlator@Frost is an Android application that lets you to run Windows (x86_64) a
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - If the game running in low fps, try removing some extra env from here
 <p align="center">
-	<img src="fix.png" width="1280" height="1024" alt="Winlator-Frost Fix" />  
+	<img src="fix.png" width="640" height="480" alt="Winlator-Frost Fix" />  
 </p>
 
 # Credits and Third-party apps
