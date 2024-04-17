@@ -6,6 +6,8 @@
 
 Winlator@Frost is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally modified from [Brunodev85](https://github.com/brunodev85/Winlator)
 
+Modded by a student 16 years old from Thailand.
+
 # Installation
 
 1. Download and install the APK (Winlator@Frost 6.1 V3.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
@@ -30,6 +32,20 @@ Winlator@Frost is an Android application that lets you to run Windows (x86_64) a
 <p align="center">
 	<img src="fix.png" width="480" height="240" alt="Winlator-Frost Fix" />  
 </p>
+
+# System requirement for Winlator@Frost
+- `Turnip` - For Adreno 6xx and 7xx only at the moment. Adreno 750 and 710 might not work
+- `VirGL` - Universal, all GPU might work with VirGL but you can only play DX9 games
+- `LLVMPIPE` - Use this if you want to run software apps (not game) 
+
+# What is the difference between bench and without bench apk? 
+- Bench is for the user that have 2 or more winlator. It's suitable for the user to compare the winlator. While, without bench is for the user that don't have/install any winlator yet.
+
+# Like my mod? 
+- If you like then give us a star for this repository. Also give us feedback or suggestions in 'pull requests'.
+
+# Don't like my mod or think other winlator mod are better than my mod?
+- Yes. Exactly, my mod will become very worst at some device that are not fit with my mod. So you can try other winlator mod that are better than me. I made this winlator just for personal use only but I think it would be good if I share it to other people. But, what can I do if my winlator mod don't work properly in your device.
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
