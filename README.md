@@ -34,9 +34,9 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 </p>
 
 # System requirement for Winlator@Frost
-- `Turnip` - For Adreno 6xx and 7xx only at the moment. Adreno 735, 720, 710 and 613 might not work
-- `VirGL` - Universal, all GPU might work with VirGL but you can only play DX9 games
-- `LLVMPIPE` - Use this if you want to run software apps (not game) 
+- `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 735, 732, 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU
+- `VirGL` - Universal, all GPU `(include unsupport GPU of turnip)` might work with VirGL but you can only play DX9 games
+- `LLVMPIPE` - Use this if you want to run software apps `(not for game)` 
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
@@ -45,7 +45,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - If you like then give us a star for this repository. Also give us feedback or suggestions in 'pull requests'.
 
 # Hate my mod or think other winlator mod are better than mine?
-- Yes. Exactly, my mod will become very worst at some device that are not fit with my mod. So you can try other winlator mod that are better than me (like afei, bla, bla, bla). I made this winlator just for personal use only but I think it would be good if I share it to other people. But, what can I do if my winlator mod doesn't work properly in your device.
+- Yes. Exactly, my mod will become very worst at some device that are not fit with my mod. So you can try other winlator mod that are better than me (like afei, or bla, bla, bla). Remember, I made this winlator just for personal use only but I think it would be good if I share it to other people. But, what can I do if my winlator mod doesn't work properly in your device.
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
