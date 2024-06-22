@@ -29,7 +29,9 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - If some older games don't open, try adding the environment variable MESA_EXTENSION_MAX_YEAR=2003 in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - If you want to hide the annoying dxvk hud, please removing this env from here
-
+<p align="center">
+	<img src="fix.png" width="600" height="400" alt="Winlator-Frost Hide DXVK HUD" />  
+</p>
 
 # System requirement for Winlator@Frost
 - `Turnip` - For Adreno 6xx and 7xx only at the moment. Adreno 735, 720, 710 and 613 might not work
