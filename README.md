@@ -30,7 +30,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - If you want to hide the annoying dxvk hud, please removing this env from here
 <p align="center">
-	<img src="fix.png" width="600" height="400" alt="Winlator-Frost Hide DXVK HUD" />  
+	<img src="hide_dxvk_hud.png" width="480" height="240" alt="Winlator-Frost Hide DXVK HUD" />  
 </p>
 
 # System requirement for Winlator@Frost
