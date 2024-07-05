@@ -10,7 +10,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # Installation
 
-1. Download and install the APK (Winlator@Frost 7.1 V1.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+1. Download and install the APK (Winlator@Frost 7.1 V3.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
 2. Launch the app and wait for the installation process to finish
 
 ----
@@ -35,7 +35,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # System requirement for Winlator@Frost
 - `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 735, 732, 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU
-- `VirGL` - Universal, all GPU `(include unsupport GPU of turnip)` might work with VirGL but you can only play DX9 games
+- `VirGL` - Universal, all GPU `like Mali, Exynos, Kirin, Unisoc, etc`(include unsupport GPU of turnip adreno like in above)` might work with VirGL but you can only play DX9 games
 - `LLVMPIPE` - Use this if you want to run software apps `(not for game)` 
 
 # What is the difference between bench and without bench apk? 
