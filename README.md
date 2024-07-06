@@ -36,7 +36,12 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 # System requirement for Winlator@Frost
 - `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 735, 732, 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU
 - `VirGL` - Universal, all GPU `like Mali, Exynos, Kirin, Unisoc, etc`(include unsupport GPU of turnip adreno like in above)` might work with VirGL but you can only play DX9 games
-- `LLVMPIPE` - Use this if you want to run software apps `(not for game)` 
+- `LLVMPIPE` - Use this if you want to run software apps `(not for game)`
+
+# Known issue in Winlator@Frost
+- Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue
+- Snapdragon 8 gen 3 `Adreno 750` may not working/compatible with this mod
+- Some game have a xinput issue which virtual gamepad are not working
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
