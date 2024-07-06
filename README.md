@@ -52,10 +52,11 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - Wine ([winehq.org](https://www.winehq.org/))
 - Box86/Box64 by [ptitseb](https://github.com/ptitSeb)
 - PRoot ([proot-me.github.io](https://proot-me.github.io))
-- Mesa3D ([mesa3d.org](https://www.mesa3d.org))
+- Mesa3D (Turnip, Zink, VirGL) ([mesa3d.org](https://www.mesa3d.org))
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
-Many thanks to [ptitSeb](https://github.com/ptitSeb), [alexvorxx](https://github.com/alexvorxx) and others.
+Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) 
+(Mods/Tips) and others.
 Thank you to all the people who believe in this project.
