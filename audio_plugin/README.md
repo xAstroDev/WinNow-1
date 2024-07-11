@@ -1,4 +1,4 @@
-This is the ALSA audio plugin used in Winlator
+This is the ALSA audio plugin we use.
 
 ## Build dependencies
 
