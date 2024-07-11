@@ -2,15 +2,15 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator-Frost Logo" />  
 </p>
 
-# Winlator@Frost
+# Windows Emulation on Android!
 
-Winlator@Frost is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally modified from [Brunodev85](https://github.com/brunodev85/Winlator)
+ an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally modified from [Brunodev85](https://github.com/brunodev85/Winlator)
 
-Modded by a student 16 years old from Songkhla province, Thailand.
+
 
 # Installation
 
-1. Download and install the APK (Winlator@Frost 7.1 V3.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+1. Download and install the APK 
 2. Launch the app and wait for the installation process to finish
 
 ----
@@ -33,24 +33,24 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 	<img src="hide_dxvk_hud.png" width="480" height="240" alt="Winlator-Frost Hide DXVK HUD" />  
 </p>
 
-# System requirement for Winlator@Frost
+# System requirements
 - `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 735, 732, 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU
 - `VirGL` - Universal, all GPU `like Mali, Exynos, Kirin, Unisoc, etc`(include unsupport GPU of turnip adreno like in above)` might work with VirGL but you can only play DX9 games
 - `LLVMPIPE` - Use this if you want to run software apps `(not for game)`
 
-# Known issue in Winlator@Frost
-- Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue
-- Snapdragon 8 gen 3 `Adreno 750` may not working/compatible with this mod
-- Some game have a xinput issue which virtual gamepad are not working
+# Known issues (TODO LIST)
+- [ ] Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue
+- [ ] Snapdragon 8 gen 3 `Adreno 750` may not working/compatible with this mod
+- [ ] Some game have a xinput issue which virtual gamepad are not working
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
 
 # Like my mod? 
-- If you like then give us a star for this repository. Also give us feedback or suggestions in 'pull requests'.
+- Star This Repo!
 
-# Hate my mod or think other winlator mod are better than mine?
-- Yes. Exactly, my mod will become very worst at some device that are not fit with my mod. So you can try other winlator mod that are better than me (like afei, or bla, bla, bla). Remember, I made this winlator just for personal use only but I think it would be good if I share it to other people. But, what can I do if my winlator mod doesn't work properly in your device.
+# Want to Contribute?
+- Open a Pull request!
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
@@ -61,7 +61,3 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
-
-Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) 
-(Mods/Tips) and others.
-Thank you to all the people who believe in this project.
